@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "33ed274e_ed5a1ff6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2021-04-17T00:46:00Z",
+      "side": 1,
+      "message": "Hello, you should now have merge rights to the a10 repo.",
+      "revId": "d1526b143769294fd323c737332556b3b8d877d8",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
