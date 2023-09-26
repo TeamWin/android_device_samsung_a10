@@ -128,7 +128,6 @@ TW_DEFAULT_BRIGHTNESS := 150
 TW_SKIP_COMPATIBILITY_CHECK := true
 TW_Y_OFFSET := 60
 TW_H_OFFSET := -60
-TW_INCLUDE_REPACKTOOLS := true
 TW_INCLUDE_RESETPROP := true
 TW_EXCLUDE_DEFAULT_USB_INIT := true
 TARGET_USE_CUSTOM_LUN_FILE_PATH := "/sys/kernel/config/usb_gadget/g1/functions/mass_storage.0/lun.%d/file"
