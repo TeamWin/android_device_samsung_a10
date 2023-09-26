@@ -38,13 +38,6 @@ TARGET_2ND_CPU_ABI2 := armeabi
 TARGET_2ND_CPU_VARIANT := cortex-a53
 TARGET_BOARD_SUFFIX := _64
 
-# Binder
-TARGET_USES_64_BIT_BINDER := true
-
-TARGET_CPU_SMP := true
-ENABLE_CPUSETS := true
-ENABLE_SCHEDBOOST := true
-
 ALLOW_MISSING_DEPENDENCIES := true
 
 # File systems
@@ -119,7 +112,7 @@ TW_INCLUDE_CRYPTO := false
 TW_INCLUDE_CRYPTO_FBE := false
 
 # TWRP specific build flags
-TW_DEVICE_VERSION := Samsung Galaxy A10
+TW_DEVICE_VERSION := Galaxy A10
 TW_THEME := portrait_hdpi
 TARGET_RECOVERY_PIXEL_FORMAT := "ABGR_8888"
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel/brightness"
